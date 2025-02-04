@@ -166,6 +166,7 @@ services:
 
 ## 🔥 **Final Thoughts**
 This architecture ensures:
+
 ✅ Separation of concerns (backend vs. frontend)  
 ✅ Scalability with microservices-ready approach  
 ✅ Easy maintenance and modularity  

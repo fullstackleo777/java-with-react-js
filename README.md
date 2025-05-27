@@ -3,11 +3,7 @@
 # java-with-react-js
 General use structural starting point for a project using Java on the backend and React on the frontend
 
----
-
 Here’s an example of a **Java + React full-stack project architecture** with a well-structured directory layout.
-
----
 
 ## 🏗️ **Project Architecture Overview**
 A Java backend (Spring Boot) with a React frontend follows a clean architecture for scalability, maintainability, and separation of concerns.
@@ -48,8 +44,6 @@ my-java-react-app/
 │── README.md                        # Project Documentation
 │── .gitignore                        # Ignore Unwanted Files
 ```
-
----
 
 ## 🌍 **Backend (Spring Boot - Java)**
 **Key features:**
@@ -128,8 +122,6 @@ const UserList = () => {
 export default UserList;
 ```
 
----
-
 ## 🚀 **Deployment & DevOps**
 - **Dockerized** both Backend and Frontend
 - **Docker Compose** for multi-container setup
@@ -164,11 +156,11 @@ services:
       MYSQL_DATABASE: mydb
 ```
 
----
-
 ## 🔥 **Final Thoughts**
 This architecture ensures:
 
 ✅ Separation of concerns (backend vs. frontend)  
 ✅ Scalability with microservices-ready approach  
 ✅ Easy maintenance and modularity  
+
+___

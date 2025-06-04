@@ -1,7 +1,7 @@
 ![Java with React JS Cover Image](https://raw.githubusercontent.com/fullstackleo777/covers/refs/heads/main/covers/java-with-react-js/cover_java-with-react-js.png)
 
 # java-with-react-js
-General use structural starting point for a project using Java on the backend and React on the frontend
+Structural Starting Point for a Project Using Java on the Backend and React on the Frontend - FullStackLeo
 
 Here’s an example of a **Java + React full-stack project architecture** with a well-structured directory layout.
 
